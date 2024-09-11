@@ -22,7 +22,7 @@ pnpm install
 To start the TypeScript playground, run:
 
 ```bash
-pnpm start
+pnpm dev
 ```
 
 This will compile the TypeScript files and start the playground.
